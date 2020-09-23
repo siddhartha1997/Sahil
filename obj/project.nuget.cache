@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCZmoAC9W+kZ+E/f5SxqV1LlcuYp/SSEe189Fu2jWh+SmDAo6v3UgBigBjvYHM+iRWB/6FLSWvmFTedI8lzm+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\AccountMicroservice\\AccountMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
